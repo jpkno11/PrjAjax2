@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+ <div>
+  <ul>
+  <li><a href="/Mvc">MVC 방식</a></li>
+  <li><a href="/ajax1/"></a>@ResponseBody</a></li>
+  <li><a href="/ajax2/"></a>XMLHtppRequest</a></li>
+  
+  
+  </ul>
+ </div>
+</body>
+</html>

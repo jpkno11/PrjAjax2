@@ -1,0 +1,12 @@
+package com.green.contoller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class MvcController {
+ @RequestMapping("/Mvc")
+ public String Mvc() {
+	 return "mvc";   // src/main/resources/templates  mvc.mustache
+ }
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+h1{color: blue; }
+p {color: red; }
+
+</style>
+<script>
+const h1El = document.getElementById('h1');
+</script>
+</head>
+<body>
+  <h1>Hello</h1>
+  <p>Lorem Ipsum</p>
+  <h1>Title</h1>
+  <p>Lorem Ipsum</p>
+  <p>Lorem Ipsum</p>
+</body>
+</html>

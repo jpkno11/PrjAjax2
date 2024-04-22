@@ -1,0 +1,2 @@
+rootProject.name = 'PrjAjax2'
+server.servlet.encoding.force=true

@@ -1,0 +1,22 @@
+package com.green.contoller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+//이페이지는 모든함수는 전부 @Responsebody 로 작동
+// 1.데이터전송표준- soap protocal방식 : xml 
+// 2,.데이터전송표준- rst api 방식 : json/xml
+public class DataServerController {
+	@RequestMapping("/ajax3")
+	public String ajax3() {
+		String username="카리나";
+		return username; // json으로 변경되어 출력
+	}
+	// UserDto class 를 추가한후 실행
+	@RequestMapping("/ajax4")
+	public String ajax4() {
+		String username="카리나";
+	    return username;
+
+}

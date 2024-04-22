@@ -1,0 +1,8 @@
+package com.green.dto;
+
+public class ArticleDto {
+ //Field
+	private String title;
+	private String content;
+	
+}

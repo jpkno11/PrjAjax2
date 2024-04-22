@@ -1,0 +1,11 @@
+package com.green.entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Article {
+  //Prmary key : @id
+	// 값을 자동을 채움 : @GenerateValue
+  
+   
+ }

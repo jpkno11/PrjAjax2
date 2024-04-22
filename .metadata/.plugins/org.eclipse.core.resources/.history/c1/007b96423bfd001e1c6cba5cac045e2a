@@ -1,0 +1,5 @@
+package com.green.Dto;
+
+public class ArticleDto {
+
+}
