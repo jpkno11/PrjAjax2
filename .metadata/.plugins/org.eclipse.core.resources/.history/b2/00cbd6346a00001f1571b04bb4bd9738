@@ -1,7 +1,0 @@
-package com.green.dto;
-
-public class UserDto { 
-   private String userid;
-   private String userpass;
-   private String username;
-}

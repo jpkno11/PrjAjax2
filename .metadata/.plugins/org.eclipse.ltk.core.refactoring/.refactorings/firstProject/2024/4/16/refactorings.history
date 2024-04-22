@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;FirstController&apos; to &apos;firstController&apos;&#x0D;&#x0A;- Original project: &apos;firstProject&apos;&#x0D;&#x0A;- Original element: &apos;firstProject/src/main/java/FirstController&apos;&#x0D;&#x0A;- Renamed element: &apos;firstProject/src/main/java/firstController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;FirstController&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;FirstController" name="firstController" qualified="false" references="true" stamp="1713423991138" textual="false" version="1.0"/>
-</session>
